@@ -1,0 +1,100 @@
+## Compilação do .NET
+bin/
+obj/
+out/
+
+## Diretório de pacotes
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+## Arquivos de log
+*.log
+
+## Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Arquivos de build
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+
+## VS Code
+.vscode/
+
+## Visual Studio
+.vs/
+*.csproj.user
+
+## Rider
+.idea/
+
+## Arquivos de testes
+TestResults/
+*.coverage
+*.coveragexml
+
+## Arquivos gerados por tools
+Generated_Code/
+
+## Arquivos de publish
+publish/
+*.Publish.xml
+*.PublishProfiles
+
+## Configurações locais
+appsettings.Development.json
+secrets.json
+
+## Arquivos de lock e dependências
+project.lock.json
+project.fragment.lock.json
+
+## Arquivos globais
+global.json
+
+## GitHub Copilot e similares
+*.copilot/
+
+## Ferramentas de IA
+*.turing/
+*.chatgpt/
+
+## Banco de dados local
+*.db
+*.sqlite
+*.mdb
+*.ldb
+*.mdf
+*.ldf
+*.ndf
+
+## Firebird DB
+*.FDB
+*.fb
+
+## Backup
+*.bak
+*.zip
+*.rar
+
+## Arquivos ocultos do sistema
+.DS_Store
+Thumbs.db
+
+## Arquivos temporários do Windows
+ehthumbs.db
+Desktop.ini
+
+## Cache do NuGet
+.nuget/
