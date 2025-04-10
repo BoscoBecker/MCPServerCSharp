@@ -15,7 +15,10 @@ This project is an MCP (Modular Command Platform) server created in C#, with sup
 ---
 
 ## ⚙️ Configuration
-Install dependencies
+Install dependencies by nuget
+``` bash
+dotnet add package ModelContextProtocol --prerelease
+```
 
 ### 🔧 `appsettings.json` File
 
