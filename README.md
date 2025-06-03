@@ -7,7 +7,7 @@ This project is an MCP ( Model Context Protocol ) server created in C#, with sup
 ## 📦 Technologies Used
 - NPX 
 - C# (.NET 9)
-- MCP (Modular Command Platform)
+- MCP ( Model Context Protocol )
 - FirebirdSql.Data.FirebirdClient
 - Dependency Injection via `Host.CreateApplicationBuilder`
 - Configuration via `appsettings.json`
