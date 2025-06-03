@@ -1,6 +1,6 @@
 # 🛠️ MCP Server with C# + Firebird
 
-This project is an MCP (Modular Command Platform) server created in C#, with support for custom tools. One of the features included is the execution of dynamic queries in a **Firebird** database with filter and record limit.
+This project is an MCP ( Model Context Protocol ) server created in C#, with support for custom tools. One of the features included is the execution of dynamic queries in a **Firebird** database with filter and record limit.
 
 ---
 
